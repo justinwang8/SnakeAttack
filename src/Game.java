@@ -1,6 +1,5 @@
 import java.awt.Canvas;
 import java.awt.image.BufferStrategy;
-import javax.lang.model.util.ElementScanner14;
 import java.awt.Graphics;
 import java.awt.Color;
 import java.util.Random;
