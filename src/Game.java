@@ -14,7 +14,7 @@ public class Game extends Canvas implements Runnable {
     private boolean running = false;
     
     private Handler handler;
-    private HUD hud;
+    private HUD hud;    
     private Random r;
     private Spawn spawner;
 
